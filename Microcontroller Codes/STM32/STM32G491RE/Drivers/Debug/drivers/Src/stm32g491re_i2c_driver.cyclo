@@ -1,0 +1,16 @@
+../drivers/Src/stm32g491re_i2c_driver.c:17:6:HSI16_I2C_CLK	1
+../drivers/Src/stm32g491re_i2c_driver.c:39:6:PCKL_I2C_CLK	1
+../drivers/Src/stm32g491re_i2c_driver.c:66:6:SYSCLK_I2C_CLK	4
+../drivers/Src/stm32g491re_i2c_driver.c:99:6:I2C_PCLKControl	11
+../drivers/Src/stm32g491re_i2c_driver.c:126:6:I2C_INIT	4
+../drivers/Src/stm32g491re_i2c_driver.c:173:6:StartBitGeneration	3
+../drivers/Src/stm32g491re_i2c_driver.c:202:6:StopBitGeneration	2
+../drivers/Src/stm32g491re_i2c_driver.c:212:6:SendData	3
+../drivers/Src/stm32g491re_i2c_driver.c:222:6:SendDataIT	1
+../drivers/Src/stm32g491re_i2c_driver.c:231:6:ReciveData	3
+../drivers/Src/stm32g491re_i2c_driver.c:243:6:I2C_MasterSendData	1
+../drivers/Src/stm32g491re_i2c_driver.c:256:6:I2C_MasterReciveData	1
+../drivers/Src/stm32g491re_i2c_driver.c:306:6:I2C_MasterSendData_IT	1
+../drivers/Src/stm32g491re_i2c_driver.c:320:6:I2C_MasterReciveData_IT	1
+../drivers/Src/stm32g491re_i2c_driver.c:324:6:I2Cx_IRQConfig	12
+../drivers/Src/stm32g491re_i2c_driver.c:344:6:I2Cx_IRQPriorityConfig	1

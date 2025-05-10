@@ -1,0 +1,9 @@
+../drivers/Src/stm32g491re_spi_driver.c:15:6:SPI_PCLKControl	11
+../drivers/Src/stm32g491re_spi_driver.c:41:6:SPI_INIT	4
+../drivers/Src/stm32g491re_spi_driver.c:90:6:SPI_SendData	3
+../drivers/Src/stm32g491re_spi_driver.c:110:6:SPI_ReceiveData	4
+../drivers/Src/stm32g491re_spi_driver.c:133:6:SPI_SSIConfig	2
+../drivers/Src/stm32g491re_spi_driver.c:141:6:SPI_SSOEConfig	2
+../drivers/Src/stm32g491re_spi_driver.c:149:6:SPI_MASTERConfig	2
+../drivers/Src/stm32g491re_spi_driver.c:156:6:SPI_FRXTHConfig	2
+../drivers/Src/stm32g491re_spi_driver.c:164:6:SPI_ENABLE	2
